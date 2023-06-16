@@ -1,2 +1,2 @@
-# Metodos-de-Aprendizagem-N-o-Supervisionada
+# Metodos-de-Aprendizagem-Não-Supervisionada
 Métodos de aprendizagem Não Supervisionada
