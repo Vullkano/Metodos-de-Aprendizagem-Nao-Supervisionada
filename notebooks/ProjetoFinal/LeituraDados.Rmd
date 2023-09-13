@@ -164,7 +164,7 @@ saveRDS(IrlandaNoImput, "IrlandaNoImput.rds")
 ```
 
 
-# Anexos
+# Anexos/Extras
 
 ```{r, eval=FALSE}
 dados %>%
